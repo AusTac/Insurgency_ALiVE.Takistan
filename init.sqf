@@ -1,0 +1,3 @@
+
+
+execVM "staticData.sqf";
